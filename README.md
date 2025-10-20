@@ -42,7 +42,7 @@ A Qt-based screen rotation manager that automatically rotates your display based
 sudo zypper install -y cmake gcc-c++ qt5-qtbase-devel libXrandr-devel libXi-devel libQt5X11Extras-devel libqt5-qtbase-devel libqt5-qtsensors-devel
 
 # Clone and build
-git clone https://github.com/YOUR_USERNAME/ScreenRotator.git
+git clone https://github.com/skrappjaw/ScreenRotator.git
 cd ScreenRotator
 mkdir build && cd build
 cmake ..
@@ -56,7 +56,7 @@ sudo make install
 sudo apt install -y git cmake build-essential qtbase5-dev libxrandr-dev libxi-dev libqt5x11extras5-dev libqt5sensors5-dev
 
 # Clone and build
-git clone https://github.com/YOUR_USERNAME/ScreenRotator.git
+git clone https://github.com/skrappjaw/ScreenRotator.git
 cd ScreenRotator
 mkdir build && cd build
 cmake ..
